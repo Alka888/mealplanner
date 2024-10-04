@@ -25,7 +25,5 @@ app.listen(PORT,  () => {
 })
 
 
-//SZATcG6L5vvRvwNa
-//tzhabon
 
-//mongodb+srv://tzhabon:<db_password>@cluster0.omi1k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
